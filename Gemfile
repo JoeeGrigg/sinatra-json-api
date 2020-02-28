@@ -11,7 +11,7 @@ gem 'sinatra-activerecord', '2.0.13'
 gem 'thin', '1.7.2'
 gem 'shotgun', '0.9.2'
 gem 'json', '2.1.0'
-gem 'rake', '12.3.0'
+gem 'rake', '12.3.3'
 gem 'wannabe_bool', '0.7.0'
 
 # Development
